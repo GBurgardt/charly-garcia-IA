@@ -6,7 +6,7 @@ Este proyecto encarna el arte y la esencia de Charly García (podría ser cualqu
 
 ## Función
 
-1. **Scrapea Letras**: Extrae las letras del poeta urbano, Charly García.
+1. **Scrapea Letras**: Extrae las letras de Charly García.
 2. **Formatea para OpenAI**: Transmuta las letras en alimento para la máquina.
 3. **Entrena a GPT-3.5-turbo**: Instruye a la inteligencia artificial para comprender el alma de Charly.
 4. **Genera Nuevas Letras**: Crea, desde la nada, poesía en el estilo de García.
