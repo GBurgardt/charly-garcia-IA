@@ -1,5 +1,7 @@
 # Charly Garcia IA
 
+<img width="611" alt="image" src="https://github.com/GBurgardt/charly-garcia-IA/assets/22543478/f921c837-137d-4313-b17e-e1e16addb2be">
+
 ## Descripción
 
 Este proyecto encarna el arte y la esencia de Charly García (podría ser cualquier otro), el icónico cantautor argentino, a través de la inteligencia artificial.
